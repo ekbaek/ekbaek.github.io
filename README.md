@@ -1,2 +1,2 @@
 # ekbaek.github.io
-github biog
+github blog
